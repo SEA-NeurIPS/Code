@@ -1,0 +1,18 @@
+datasets==3.0.0
+accelerate==0.27.2
+alpaca_eval==0.6.2
+flash-attn==2.3.6
+huggingface-hub==0.24.7
+tqdm==4.66.5
+transformers==4.43.1 #4.42.4
+trl==0.9.6
+vllm==0.3.3
+wandb==0.17.0
+tokenizers==0.19.1
+numpy==1.26.3
+peft==0.7.1
+wandb==0.17.0
+seaborn==0.13.2
+jinja2==3.1.0
+openai==0.27.1
+nltk
