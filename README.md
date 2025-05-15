@@ -1,6 +1,6 @@
 # Inference-time Alignment in Continuous Space
 
-This repository provides the implementation code for our submission to the ICLR 2025 workshop on bidirectional Human-AI alignment: Inference-time Alignment in Continuous Space. In this paper, we propose SEA, a simple inference-time alignment algorithm that reformulates alignment as an iterative optimization procedure on an energy function over logits in the continuous space defined by the optimal RLHF policy for deep and effective alignment. Despite its simplicity, SEA enjoys promising performance on extensive benchmarks such as AdvBench and TruthfulQA, consistently and significantly outperforming state-of-the-art baselines across various base models. 
+This repository provides the implementation code for our submission to the NeurIPS 2025: Inference-time Alignment in Continuous Space. In this paper, we propose SEA, a simple inference-time alignment algorithm that reformulates alignment as an iterative optimization procedure on an energy function over logits in the continuous space defined by the optimal RLHF policy for deep and effective alignment. Despite its simplicity, SEA enjoys promising performance on extensive benchmarks such as AdvBench and TruthfulQA, consistently and significantly outperforming state-of-the-art baselines across various base models. 
 
 
 ## Environment
